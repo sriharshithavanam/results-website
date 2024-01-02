@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 4em;
+  font-family:   Times Georgia;
+  font-weight: bold;
+  color: #370606;
+}
+label
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family:Times new roman;
+  color: #370617;
+}
+input[type=submit]
+{
+  background-color: #0625a2;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+  box-type:
+  
+}
